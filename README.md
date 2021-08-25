@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valenamenabar . I'm 25 years old. I live in Rosario, Santa Fe, Argentina. I'm Digital Designer and a Software Development student.
-- 👩‍🎨 My name is Valentina Collareta but people call me Valentina Amenábar because that's my artistic name.
+- 👩‍🎨 My real name is Valentina Collareta but I usually use my artistic name: Valentina Amenábar.
 - 👀 I’m interested in Web Design and Web Development.
 - 🌱 I’m currently learning OOP in Javascript, Node.js
 - 💞️ I’m looking to collaborate on Websites.
